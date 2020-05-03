@@ -4,7 +4,7 @@
 	<property name="project.dir" value="C:/Users/abila.saravanabhavan/Desktop/JSP_WAR/WebContent" />
     <property name="project.dir.name" value="JSP_WAR" />
     <property name="package.name" value="${project.dir.name}.war" />
-    <property name="webapp.dir" value="C:/Program Files/Apache Software Foundation/Tomcat 9.0/webapps" />  
+    <property name="webapp.dir" value="C:/Program Files (x86)/Apache Software Foundation/Tomcat 9.0/webapps" />  
     <property name="project.dir.web-inf" value="${project.dir}/WEB-INF" />
     <property name="project.dir.meta-inf" value="${project.dir}/META-INF" />
     <property name="war.dir" value="C:/Users/abila.saravanabhavan/Desktop/JSP_WAR/war" />
